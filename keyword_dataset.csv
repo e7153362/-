@@ -1,0 +1,2136 @@
+﻿text,label
+防火牆,1
+入侵檢測,1
+入侵防禦,1
+網路封包,1
+流量監控,1
+ACL,1
+訪問控制列表,1
+VPN,1
+MED,1
+OPAP,1
+加密,1
+解密,1
+代理伺服器,1
+WAF,1
+防火牆,1
+網路流量分析,1
+零信任架構,1
+端點防護,1
+IDS/IPS,1
+IDS,1
+IPS,1
+日誌分析,1
+SIEM,1
+C2通道,1
+網路釣魚,1
+流量重放,1
+網路滲透,1
+無線網路安全,1
+漏洞掃描,1
+SQL注入,1
+XSS,1
+跨站腳本,1
+CSRF,1
+跨站請求偽造,1
+緩衝區溢出,1
+格式化字串漏洞,1
+競爭條件,1
+提權攻擊,1
+目錄穿越,1
+RCE,1
+遠端代碼執行,1
+SSRF,1
+伺服器端請求偽造,1
+XML外部實體,1
+XXE,1
+反序列化漏洞,1
+堆疊溢出,1
+UAF,1
+缺口利用,1
+環境變數劫持,1
+藍牙漏洞,1
+攔截攻擊,1
+DLL劫持,1
+漏洞利用工具,1
+Metasploit,1
+Nmap,1
+Wireshark,1
+Burp Suite,1
+Nessus,1
+Kali Linux,1
+Gobuster,1
+Hydra,1
+John the Ripper,1
+Hashcat,1
+Ettercap,1
+Mimikatz,1
+Netcat,1
+Exploit DB,1
+Cobalt Strike,1
+Empire,1
+Shellcode,1
+Payload,1
+後門,1
+惡意程式,1
+病毒,1
+木馬,1
+蠕蟲,1
+間諜軟體,1
+勒索軟體,1
+殭屍網路,1
+Botnet,1
+Rootkit,1
+網頁掛馬,1
+惡意廣告,1
+Malvertising,1
+加密勒索,1
+沙箱分析,1
+逆向工程,1
+行為分析,1
+YARA規則,1
+虛擬機逃逸,1
+靜態分析,1
+動態分析,1
+環境檢測,1
+遠端控制,1
+CVE,1
+漏洞編號,1
+CWE,1
+弱點分類,1
+MITRE,1
+ATT&CK,1
+NIST,1
+OWASP,1
+ISO 27001,1
+27001,1
+GDPR,1
+HIPAA,1
+安全基線,1
+安全補丁,1
+CVSS,1
+CVSS評分,1
+資安事件回應,1
+漏洞披露,1
+威脅建模,1
+資料分類,1
+零日漏洞,1
+漏洞修復,1
+風險評估,1
+網路監控,1
+防禦性編碼,1
+安全審計,1
+隱寫術,1
+資訊隱寫,1
+數位隱寫,1
+隱寫編碼,1
+隱寫技術,1
+資料隱藏,1
+隱匿通信,1
+載體文件,1
+隱寫通道,1
+隱寫容量,1
+圖像隱寫,1
+音頻隱寫,1
+視頻隱寫,1
+文本隱寫,1
+網路隱寫,1
+LSB隱寫,1
+變換域隱寫,1
+空間域隱寫,1
+語義隱寫,1
+亂數隱寫,1
+像素隱寫,1
+顏色通道隱寫,1
+RGB隱寫,1
+Alpha,1
+通道隱寫,1
+影像隱寫,1
+直方圖分析,1
+中間邊緣檢測法,1
+最低有效位元取代法,1
+最佳像素調整法,1
+DCT,1
+DCT變換,1
+小波變換,1
+JPEG隱寫,1
+PNG隱寫,1
+音頻隱藏,1
+音頻編碼,1
+頻域隱寫,1
+取樣率隱寫,1
+聲波隱寫,1
+MP3隱寫,1
+LPC隱寫,1
+聲音變換,1
+低頻隱寫,1
+失真分析,1
+視頻資訊隱藏,1
+資訊隱藏,1
+幀間隱寫,1
+視頻壓縮隱寫,1
+H.264隱寫,1
+MPEG隱寫,1
+影片載體,1
+幀抽取隱寫,1
+時域隱寫,1
+動畫隱寫,1
+比特流隱寫,1
+空白符隱寫,1
+行距隱寫,1
+字符替換,1
+字體變化,1
+Unicode隱寫,1
+零寬字符,1
+標點符號隱寫,1
+大小寫隱寫,1
+文字順序,1
+隱寫標記,1
+封包隱寫,1
+網路協議隱寫,1
+DNS隱寫,1
+HTTP隱寫,1
+ICMP隱寫,1
+TCP隱寫,1
+UDP隱寫,1
+封裝隱寫,1
+流量隱寫,1
+延遲隱寫,1
+Steghide,1
+OpenStego,1
+SilentEye,1
+OutGuess,1
+DeepSound,1
+F5隱寫工具,1
+Hide and Seek,1
+XiaoSteg,1
+JPHS,1
+Steganography Studio,1
+隱寫分析,1
+隱寫檢測,1
+隱寫破譯,1
+統計分析,1
+類神經分析,1
+隱寫痕跡,1
+差異分析,1
+隱寫暴露,1
+PSNR測量,1
+反隱寫技術,1
+水印技術,1
+數位水印,1
+數據保護,1
+資訊安全,1
+匿名通信,1
+反追蹤技術,1
+加密隱寫,1
+混合隱寫,1
+攻防對抗,1
+隱寫滲透,1
+SQL Injection,1
+XSS (Cross-Site Scripting),1
+CSRF (Cross-Site Request Forgery),1
+RCE (Remote Code Execution),1
+LFI/RFI (Local/Remote File Inclusion),1
+Buffer Overflow,1
+Privilege Escalation,1
+Malware,1
+Phishing,1
+DoS/DDoS (Denial of Service/Distributed Denial of Service),1
+Firewall,1
+IDS/IPS (Intrusion Detection/Prevention System),1
+SIEM (Security Information and Event Management),1
+Honeypot,1
+WAF (Web Application Firewall),1
+Endpoint Protection,1
+Patch Management,1
+SSL/TLS,1
+RSA,1
+AES,1
+Hashing,1
+SHA-1,1
+MD5,1
+SHA-256,1
+Public Key Infrastructure (PKI),1
+Two-Factor Authentication (2FA),1
+Digital Signature,1
+CVE (Common Vulnerabilities and Exposures),1
+CVE,1
+Zero-Day,1
+Exploit,1
+Penetration Testing,1
+Vulnerability Assessment,1
+Red Team,1
+Blue Team,1
+OWASP Top 10,1
+Metasploit,1
+Wireshark,1
+Burp Suite,1
+Nessus,1
+Nmap,1
+Ghidra,1
+Volatility,1
+Yara,1
+Snort,1
+ARP Spoofing,1
+DNS Spoofing,1
+MITM (Man-in-the-Middle Attack),1
+Credential Stuffing,1
+Session Hijacking,1
+Password Spraying,1
+Social Engineering,1
+Supply Chain Attack,1
+Watering Hole Attack,1
+Logic Bomb,1
+Keylogger,1
+Trojan Horse,1
+Ransomware,1
+Spyware,1
+Adware,1
+Botnet,1
+Drive-By Download,1
+Fileless Malware,1
+Cryptojacking,1
+Insider Threat,1
+Shadow IT,1
+Zero Trust,1
+Network Segmentation,1
+Microsegmentation,1
+Threat Hunting,1
+SOC (Security Operations Center),1
+Incident Response,1
+Data Loss Prevention (DLP),1
+Security Awareness Training,1
+IAM (Identity and Access Management),1
+Least Privilege,1
+Behavior-Based Detection,1
+Heuristic Analysis,1
+Anomaly Detection,1
+GDPR (General Data Protection Regulation),1
+HIPAA (Health Insurance Portability and Accountability Act),1
+CCPA (California Consumer Privacy Act),1
+PCI-DSS (Payment Card Industry Data Security Standard),1
+FISMA (Federal Information Security Management Act),1
+Data Encryption at Rest,1
+Data Encryption in Transit,1
+Tokenization,1
+Data Masking,1
+Pseudonymization,1
+Hydra,1
+John the Ripper,1
+Aircrack-ng,1
+Hashcat,1
+ExploitDB,1
+Cobalt Strike,1
+BloodHound,1
+Shodan,1
+OWASP ZAP,1
+Nikto,1
+SQLmap,1
+TestSSL.sh,1
+Responder,1
+Impacket,1
+Veil Framework,1
+CWE (Common Weakness Enumeration),1
+NVD (National Vulnerability Database),1
+Exploit Kit,1
+Proof of Concept (PoC),1
+Bug Bounty,1
+Vulnerability Scanner,1
+Attack Surface,1
+Risk Assessment,1
+Threat Intelligence,1
+Kill Chain,1
+MITRE ATT&CK Framework,1
+Steganography,1
+LSB (Least Significant Bit),1
+Image Steganography,1
+Audio Steganography,1
+Video Steganography,1
+Text Steganography,1
+Spatial Domain,1
+Frequency Domain,1
+DCT (Discrete Cosine Transform),1
+DWT (Discrete Wavelet Transform),1
+Steganalysis,1
+Payload Extraction,1
+Statistical Analysis,1
+Chi-Square Test,1
+Histogram Analysis,1
+Noise Detection,1
+PCA (Principal Component Analysis),1
+Steghide,1
+OpenPuff,1
+S-Tools,1
+OutGuess,1
+SilentEye,1
+Camouflage,1
+Cover Object,1
+Stego Object,1
+Embedding,1
+Extraction,1
+Hidden Message,1
+Payload,1
+Redundancy,1
+Perceptual Transparency,1
+Robustness,1
+Capacity,1
+Adaptive Steganography,1
+Cover Selection,1
+Reversible Data Hiding,1
+Spread Spectrum,1
+QIM (Quantization Index Modulation),1
+Perturbed Quantization,1
+Syndrome-Trellis Codes,1
+Watermarking,1
+Robust Steganography,1
+Fragile Watermarking,1
+Semi-Fragile Watermarking,1
+Distortion Detection,1
+RS Analysis (Regular-Singular Analysis),1
+Machine Learning in Steganalysis,1
+Image Quality Metrics,1
+Entropy Analysis,1
+Detection Accuracy,1
+Embedding Efficiency,1
+Stego Noise,1
+Stego Key,1
+Jsteg Algorithm,1
+StegoSuite,1
+Pixelknot,1
+F5 Algorithm,1
+CryptaPix,1
+DeepSound,1
+QuickStego,1
+Hide'N'Send,1
+Cloakify,1
+White Noise Messaging,1
+Covert Communication,1
+Digital Forensics,1
+Anti-Forensics,1
+Covert Channel,1
+Information Hiding,1
+Steganographic Capacity,1
+Subcarrier Allocation,1
+Digital Rights Management (DRM),1
+Secure Messaging,1
+Camouflage Coding,1
+Redundant Encoding,1
+Host Signal,1
+Robust Channel,1
+Blind Steganography,1
+Statistical Imperceptibility,1
+Watermark Embedding,1
+Cover Modification,1
+Distortion Function,1
+Data Extraction,1
+Channel Coding,1
+蘋果,0
+香蕉,0
+桌子,0
+椅子,0
+風景,0
+河流,0
+山脈,0
+天空,0
+白雲,0
+雨水,0
+沙灘,0
+海洋,0
+魚類,0
+鳥類,0
+老虎,0
+獅子,0
+大象,0
+斑馬,0
+長頸鹿,0
+青蛙,0
+蚊子,0
+貓咪,0
+狗狗,0
+電視,0
+音響,0
+沙發,0
+地毯,0
+窗簾,0
+鏡子,0
+洗衣機,0
+冰箱,0
+微波爐,0
+烤箱,0
+火車,0
+飛機,0
+汽車,0
+巴士,0
+摩托車,0
+單車,0
+電燈,0
+手錶,0
+鞋子,0
+襪子,0
+帽子,0
+衣服,0
+圍巾,0
+手套,0
+背包,0
+書包,0
+課本,0
+筆記本,0
+鉛筆,0
+橡皮擦,0
+尺子,0
+剪刀,0
+膠水,0
+貼紙,0
+日記本,0
+小說,0
+雜誌,0
+報紙,0
+電影,0
+戲劇,0
+音樂,0
+舞蹈,0
+畫畫,0
+雕塑,0
+攝影,0
+足球,0
+籃球,0
+排球,0
+棒球,0
+羽毛球,0
+乒乓球,0
+游泳,0
+跑步,0
+跳遠,0
+舉重,0
+瑜伽,0
+高爾夫,0
+網球,0
+爬山,0
+騎馬,0
+射箭,0
+馬拉松,0
+烽火台,0
+博物館,0
+美術館,0
+大學,0
+圖書館,0
+動物園,0
+植物園,0
+遊樂園,0
+商場,0
+超市,0
+便利店,0
+餐廳,0
+咖啡店,0
+酒吧,0
+甜品店,0
+蛋糕,0
+麵包,0
+奶茶,0
+咖啡,0
+果汁,0
+啤酒,0
+紅酒,0
+香檳,0
+牛肉,0
+豬肉,0
+雞肉,0
+鴨肉,0
+魚肉,0
+海鮮,0
+蝦仁,0
+螃蟹,0
+扇貝,0
+生蠔,0
+蔬菜,0
+水果,0
+穀物,0
+大米,0
+麵條,0
+餃子,0
+湯圓,0
+粽子,0
+月餅,0
+漢堡,0
+披薩,0
+壽司,0
+拉麵,0
+火鍋,0
+燒烤,0
+便當,0
+炒飯,0
+粥品,0
+蛋炒飯,0
+湯麵,0
+蛋糕卷,0
+三明治,0
+牛奶,0
+豆奶,0
+可樂,0
+汽水,0
+清茶,0
+綠茶,0
+烏龍茶,0
+冰沙,0
+冰淇淋,0
+炸雞,0
+薯條,0
+雞翅,0
+雞腿,0
+水果沙拉,0
+蔬菜沙拉,0
+水果拼盤,0
+開心果,0
+杏仁,0
+核桃,0
+榛子,0
+花生,0
+瓜子,0
+腰果,0
+藍莓,0
+草莓,0
+西瓜,0
+芒果,0
+鳳梨,0
+櫻桃,0
+橙子,0
+檸檬,0
+李子,0
+柚子,0
+椰子,0
+紅蘿蔔,0
+黃瓜,0
+茄子,0
+白菜,0
+菠菜,0
+西蘭花,0
+芋頭,0
+玉米,0
+土豆,0
+地瓜,0
+南瓜,0
+冬瓜,0
+胡椒,0
+薑,0
+蒜頭,0
+洋蔥,0
+葡萄,0
+檸檬水,0
+小米,0
+糯米,0
+燕麥,0
+芝麻,0
+麥片,0
+花生醬,0
+果醬,0
+蜂蜜,0
+紅糖,0
+白糖,0
+胡椒粉,0
+辣椒,0
+香菇,0
+金針菇,0
+木耳,0
+杏鮑菇,0
+白木耳,0
+枸杞,0
+紅棗,0
+龍眼,0
+桂圓,0
+香草,0
+薄荷,0
+檸檬草,0
+青檸,0
+洋芋片,0
+巧克力,0
+奶油,0
+奶酪,0
+奶茶粉,0
+草莓粉,0
+玉米粉,0
+麵包屑,0
+小麥粉,0
+番茄醬,0
+沙拉醬,0
+燒烤醬,0
+火鍋底料,0
+麻辣醬,0
+海鮮醬,0
+紅酒醋,0
+果醋,0
+椰子油,0
+橄欖油,0
+花生油,0
+菜籽油,0
+豆油,0
+豬油,0
+黃油,0
+大蒜油,0
+八角,0
+桂皮,0
+丁香,0
+陳皮,0
+薄荷糖,0
+金桔,0
+紅蘿蔔汁,0
+紫薯,0
+蜜蜂,0
+瓢蟲,0
+蝴蝶,0
+烏鴉,0
+喜鵲,0
+老鷹,0
+鸚鵡,0
+麻雀,0
+鴨子,0
+鵝,0
+蝸牛,0
+螞蟻,0
+蜻蜓,0
+蜜蜂,0
+青蛙,0
+壁虎,0
+蜥蜴,0
+恐龍,0
+鯊魚,0
+海馬,0
+章魚,0
+海豚,0
+鲸魚,0
+魚翅,0
+貝殼,0
+珊瑚,0
+水母,0
+海星,0
+沙蟲,0
+螃蟹殼,0
+牡蠣,0
+草原,0
+牧場,0
+森林,0
+沼澤,0
+沙漠,0
+冰川,0
+大海,0
+洋流,0
+珊瑚礁,0
+平原,0
+盆地,0
+丘陵,0
+山谷,0
+洞穴,0
+河床,0
+湖泊,0
+池塘,0
+泉水,0
+溫泉,0
+冰河,0
+浮冰,0
+海灘,0
+沙灘,0
+礁石,0
+懸崖,0
+瀑布,0
+溪流,0
+大風,0
+颱風,0
+風暴,0
+雪花,0
+暴雪,0
+雨滴,0
+梅雨,0
+綿羊,0
+山羊,0
+駱駝,0
+孔雀,0
+鸚鵡,0
+鸕鶿,0
+翠鳥,0
+秧雞,0
+寒鴉,0
+梅花鹿,0
+黑熊,0
+棕熊,0
+北極熊,0
+袋鼠,0
+無尾熊,0
+兔子,0
+鼴鼠,0
+松鼠,0
+狼,0
+狐狸,0
+老鼠,0
+貓頭鷹,0
+鴿子,0
+烏鴉,0
+畫眉鳥,0
+八哥,0
+白鷺鷥,0
+紅鶴,0
+火烈鳥,0
+食蚁兽,0
+犀牛,0
+野豬,0
+鼬鼠,0
+靈貓,0
+雪豹,0
+獵豹,0
+山豬,0
+豪豬,0
+河馬,0
+斑馬,0
+Dinosaur,0
+shark,0
+Seahorse,0
+octopus,0
+dolphin,0
+whale,0
+Shark fin,0
+shell,0
+coral,0
+Jellyfish,0
+starfish,0
+Sandworm,0
+Crab Shell,0
+Oyster,0
+grassland,0
+pasture,0
+forest,0
+swamp,0
+desert,0
+glacier,0
+Sea,0
+Ocean Currents,0
+Coral Reefs,0
+Plains,0
+basin,0
+hills,0
+valley,0
+cave,0
+bed,0
+lake,0
+pond,0
+spring,0
+spa,0
+Glacier,0
+floating ice,0
+beach,0
+Beach,0
+reef,0
+cliff,0
+Fall,0
+stream,0
+Strong wind,0
+typhoon,0
+storm,0
+snowflake,0
+Blizzard,0
+raindrop,0
+Plum rain,0
+sheep,0
+goat,0
+camel,0
+Peacock,0
+Parrot,0
+cormorant,0
+kingfisher,0
+Crake,0
+Jackdaw,0
+Sika Deer,0
+Black Bear,0
+Brown Bear,0
+Polar Bear,0
+kangaroo,0
+koala,0
+rabbit,0
+Mole,0
+squirrel,0
+Wolf,0
+fox,0
+mouse,0
+owl,0
+Pigeon,0
+crow,0
+Thrush,0
+Myna,0
+Egret,0
+Flamingo,0
+Flamingo,0
+Anteater,0
+rhino,0
+Wild Boar,0
+Weasel,0
+Civet,0
+snow leopard,0
+Cheetah,0
+Wild boar,0
+porcupine,0
+hippo,0
+zebra,0
+我今天吃了一頓豐盛的早餐。,0
+他喜歡在週末去爬山。,0
+昨晚的電影讓我印象深刻。,0
+這是一個美麗的晴天。,0
+我每天早上都會跑步。,0
+他們正在學習如何烘焙蛋糕。,0
+這座城市的夜景非常迷人。,0
+我對音樂非常感興趣。,0
+他買了一本有趣的小說。,0
+我們計劃今年夏天去海邊。,0
+這裡的咖啡非常好喝。,0
+她正在學習一種新的語言。,0
+這棵樹的葉子變成了金黃色。,0
+他們喜歡在公園裡散步。,0
+我每天都會閱讀一些書籍。,0
+昨天的比賽非常激烈。,0
+他對手工藝非常有天賦。,0
+這家餐廳的菜品非常美味。,0
+她正在準備一場畫展。,0
+我的朋友最近學會了騎自行車。,0
+今天的天氣非常涼爽。,0
+我很喜歡這本書的封面設計。,0
+他們正在籌備一個大型活動。,0
+這幅畫的色彩搭配非常和諧。,0
+他最近學會了一些新的舞步。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+今天的天氣真好，適合散步。,0
+我想喝一杯熱咖啡。,0
+晚上我們一起去吃晚餐吧。,0
+別忘了明天早上八點的會議。,0
+下班後，我們可以去逛超市。,0
+請記得帶你的雨傘，外面正在下雨。,0
+這本書真的很好看，你一定要讀讀看。,0
+這道菜的味道真棒，你是怎麼做的？,0
+週末有時間一起看電影嗎？,0
+今天真累，我想早點休息。,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+"The weather is great today, perfect for a walk.",0
+I feel like having a cup of hot coffee.,0
+Let's have dinner together tonight.,0
+Don't forget about the meeting at 8 AM tomorrow.,0
+We can go grocery shopping after work.,0
+Remember to bring your umbrella; it's raining outside.,0
+"This book is amazing, you should definitely read it.",0
+This dish tastes great! How did you make it?,0
+Do you have time to watch a movie this weekend?,0
+I'm so tired today; I think I'll go to bed early.,0
+社交工程,1
+反病毒軟體,1
+防毒軟體,1
+反間諜軟體聯盟,1
+ASC,1
+Anti-Spyware Coalition,1
+Anti Spyware Coalition,1
+反網路釣魚工作小組,1
+Anti-phishing working group,1
+Anti phishing working group,1
+反網路釣魚,1
+反間諜軟體,1
+間諜軟體,1
+Asynchronous Transfer Mode,1
+ATM非同步傳輸模式,1
+APT,1
+進階持續性滲透攻擊,1
+Advanced Persistent Threat,1
+Anti-Spyware,1
+Anti-phishing,1
+APWG,1
+ASC,1
+Anti-virus Program,1
+Anti virus Program,1
+ASRC亞太垃圾信特徵研究中心,1
+ASRC亞太垃圾信研究中心,1
+Asia Spam mail Research Center,1
+電腦防毒軟體,1
+anti-virus,1
+anti virus,1
+ADSL,1
+非對稱數位用戶迴路,1
+AP,1
+access point,1
+網路橋接器,1
+無線基地台,1
+access control,1
+存取控制,1
+CIA ,1
+資安鐵三角,1
+Availability,1
+可用性,1
+Authenticate,1
+認證,1
+Authorization,1
+授權,1
+Auditing,1
+稽核,1
+Accounting,1
+算帳,1
+Encryption,1
+加密,1
+黑帽駭客,1
+hacker,1
+Black hat hacker,1
+Black hacker,1
+BBS,1
+Bulletin Board System,1
+電子佈告欄系統,1
+緩衝區溢位,1
+Buffer Overflow,1
+BSI,1
+英國標準協會,1
+BS7799英國資訊安全管理系統,1
+英國資訊安全管理系統,1
+BS7799,1
+browser hijacker,1
+瀏覽器綁架軟體,1
+BotNet,1
+瀏覽器綁架軟體,1
+黑箱作業,1
+Black Box Testing,1
+後門程式,1
+back door,1
+資訊安全監控中心,1
+Security Operation Center,1
+SOC,1
+電腦安全駭客,1
+Computer Security Hacker,1
+CME 計劃,1
+CME,1
+Common Malware Enumeration,1
+CME Project,1
+CNS27001,1
+CEH,1
+Certified Ethical Hacker,1
+網際空間,1
+駭客倫理認證,1
+cyberspace,1
+CSO,1
+安全官,1
+怪客,1
+鬼客,1
+cracker,1
+網路紀錄,1
+cookies,1
+電腦鑑識,1
+forensics,1
+機密性,1
+confidentiality,1
+程式隱匿技術,1
+Code obfuscation technique,1
+國際資訊安全管理師,1
+CISSP,1
+Certified Information Systems Security Professional,1
+資安官,1
+CISO,1
+cipher,1
+密文,1
+網頁掛馬,1
+網頁隱藏式惡意連結,1
+drive-by-downloads,1
+Dos,1
+阻斷服務攻擊,1
+DDOS,1
+DNS,1
+Domain Name System,1
+網域名稱系統,1
+非軍事區域,1
+DMZ,1
+災難復原計畫,1
+disaster recovery plan,1
+災難復原,1
+disaster recovery,1
+數位簽章,1
+Digital Signature,1
+dictionary attack,1
+字典攻擊法,1
+密碼破解,1
+DHCP,1
+動態主機配置協議,1
+Dynamic Host Configuration Protocol,1
+分散式阻斷服務攻擊,1
+資料分級,1
+Data classification,1
+Exploit,1
+電腦系統的攻擊,1
+外部網路,1
+extranet,1
+Evil Twin,1
+雙面惡魔，即駭客使用兩張無線網卡，一張與HotSpot的無線基地台連線，另一張網卡則利用軟體驅動成「Soft AP」，並且設成和原HotSpot一樣的SSID，欺騙使用者與其連線。,1
+道德駭客,1
+Ethical Hacker,1
+encryption,1
+加密,1
+欺騙性郵件,1
+e-mail spoofing,1
+email spoofing,1
+electronic signature,1
+電子簽章,1
+EDI,1
+電子資料交換,1
+Electronic Data Interchange,1
+足跡蒐集,1
+Footprinting,1
+指紋掃描,1
+finger scanning,1
+檔案傳輸協定,1
+File Transfer Protocol,1
+FTP,1
+Global Secure Site,1
+全球安全認證網站,1
+grayware,1
+灰色軟體,1
+gray hat,1
+亦正亦邪駭客,1
+灰帽駭客,1
+灰駭客,1
+主機型入侵防禦系統,1
+HIPS,1
+流氓軟體,1
+Hijacker,1
+Honeynet,1
+誘捕網路,1
+Honeypot,1
+惡作劇病毒,1
+網路協定,1
+hoax,1
+Internet Protocol,1
+IP,1
+ISO 27001,1
+ISO 17799,1
+資訊安全管理系統,1
+ISMS,1
+IRP,1
+事件應變計畫,1
+Incident Response Plan,1
+IPsec,1
+網際網路通訊協定安全性,1
+IPS,1
+入侵防禦系統,1
+intrusion prevention system,1
+IPR,1
+智慧財產權,1
+入侵,1
+intrusion,1
+Intranet,1
+企業內部網路,1
+網路掃瞄,1
+網路協定,1
+Internet Scanning,1
+internet protocol,1
+integrity,1
+完整性,1
+information system auditor,1
+資訊系統稽核,1
+資訊資產,1
+information assets,1
+入侵偵測系統,1
+intrusion detection system,1
+IDS,1
+Instant Messenger,1
+即時通訊系統,1
+IM,1
+全球知名的英國標準-資訊安全管理系統BS7799-2:2002已於2005年10月15日改版並發布為ISO/IEC 27001:2005國際標準。,1
+joke program,1
+玩笑程式，一種捉弄使用者的程式,1
+key logger,1
+金鑰,1
+KEY,1
+鍵盤側錄程式,1
+Land attack,1
+陸地攻擊,1
+攻擊方式與SYN floods類似，也是分散式阻斷服務攻擊DDoS的方法之一。不過在LAND attack攻擊包中的原位址和標的位址都是攻擊物件的IP。這種攻擊會導致被攻擊的機器無窮迴圈，最終耗盡資源而死機。,1
+log,1
+日誌,1
+電腦的日記,1
+LAN,1
+區域網路,1
+Local Area Network,1
+logic bomb,1
+邏輯炸彈,1
+一種惡意程式碼，插入程式後一直潛伏，直到發生特定事件，如符合特定日期條件或使用者輸入了特定指令。這時，邏輯炸彈便會觸發，通常會在使用者不知情或未授權情況下破壞或修改資料。,1
+不幸小餅干,1
+Misfortune Cookie,1
+Melissa virus,1
+梅麗莎病毒,1
+"梅麗莎病毒，""Melissa virus""是電子郵件病毒的一種。",1
+中間人攻擊,1
+Man-in-the-Middle Attack,1
+網頁隱藏式惡意連結,1
+Malicious URL injection,1
+惡意程式,1
+malicious code,1
+macro virus,1
+巨集病毒,1
+MAC,1
+媒體存取控制,1
+Media Access Control,1
+網路型入侵防禦系統,1
+Network IPS,1
+網路位址轉換,1
+Network Address Translation,1
+NAT,1
+non-repudiation,1
+不可否認性,1
+netbus,1
+殭屍網路，一種木馬程式。,1
+重寫病毒,1
+overwriting virus,1
+重寫病毒，屬於檔案型病毒的一種,1
+公開金鑰,1
+私密金鑰,1
+private key,1
+public key,1
+伺服器,1
+proxy,1
+proxy server,1
+埠號,1
+port number,1
+port,1
+明文,1
+plaintext,1
+公開金鑰基礎建設,1
+PKI,1
+PIN,1
+個人識別碼,1
+盜撥,1
+phreaking,1
+phishing,1
+pharming,1
+網路釣魚,1
+網址轉嫁,1
+PGP,1
+Pretty Good Privacy，是一套供人安全交換文件檔案的保密工具,1
+網路安全軟體,1
+Pretty Good Privacy,1
+個人防火牆,1
+personal firewall,1
+penetration testing,1
+滲透測試,1
+patch,1
+修補程式,1
+password dump,1
+password cracker,1
+password,1
+P2P,1
+密碼傾印，指以反覆讀取檔案的方式，透過電腦程式將大量儲存在電腦裏的密碼複製到另一份檔案。,1
+密碼破解者,1
+密碼,1
+peer to peer的意思，是一種節點與節點間直接溝通的技術點對點傳輸,1
+peer to peer,1
+quarantine folder,1
+檔案隔離,1
+Rootkit,1
+根工具箱，Rootkit主要功能為隱藏其他程式行程的軟體，可能是一個或一個以上的軟體組合,1
+rounding Down,1
+relay,1
+RAT,1
+薩拉米技術,1
+去尾法，與『薩拉米技術』同屬駭客竊取財務的犯罪手法，常被利用於財務資料的犯罪中。『去尾法』的犯罪方式是將數字四捨五入至最小整數後，才竊取其小數點後的尾數。因竊取的金額很小，交易單位不易發現，駭客可藉此將這些金額竊取轉至犯罪者的帳戶中。,1
+轉寄,1
+Remote Administration Tool 遠端存取特洛伊木馬程式，可讓不法份子經由網際網路連線,1
+SSH,1
+Secure shell protocol,1
+安全外殼協定,1
+Sandbox,1
+沙盒，為一種安全性機制可分離解析執行中的程式,1
+SYN flood,1
+Script kids,1
+Symmetric Cryptosystem,1
+Stealth viru,1
+SSL,1
+SQL Injection,1
+spyware,1
+spoofing,1
+splog,1
+spear phishing,1
+spam island-hopping,1
+spam,1
+洪水攻擊，洪水攻擊是一種駭客透過向伺服端發送虛假的包以欺騙伺服器的做法，也是分散式阻斷服務攻擊DDoS的方式之一。,1
+指令碼小孩,1
+對稱式密碼系統,1
+隱形病毒，是一種會嘗試躲避偵測的病毒,1
+Secure Socket Layer 加密通訊協定,1
+隱碼攻擊,1
+間諜程式,1
+欺騙,1
+垃圾部落格,1
+魚叉式網路釣魚,1
+跳島垃圾信,1
+垃圾郵件,1
+Secure Socket Layer,1
+洪水攻擊,1
+social engineering,1
+網路竊聽,1
+sniffing,1
+會話劫持,1
+session hijack,1
+安全閘道,1
+security gateway,1
+Salami Technique,1
+撒拉米技術,1
+撒拉米技術，一種用於舞弊或駭客犯罪的手法，常使用於財務資料的犯罪,1
+Twinge attack,1
+Twinge attack是一個以網際網路為基礎的電腦網路術語。Twinge attack是一種洪水攻擊 (flood)，利用假的 ICMP (Internet Control Message Protocol) 封包試圖癱瘓電腦系統。,1
+Time bomb,1
+時間炸彈，是一段隱藏的程式碼，當執行一段時間後，將於特定某個時間造成電腦系統的損害或損失,1
+時間炸彈,1
+Transmission Control Protocol/Internet Protocol,1
+網路通訊協定,1
+TCP /IP,1
+特洛依木馬程式，是一種惡意程式,1
+Trojan Horses,1
+time stamping,1
+時間郵戳，如同郵件上的日期郵戳一樣，記載著郵件存在、發送、接收與閱讀的日期，在電子商務或電子文件傳送與接收的安全性中扮演著很重要的角色。如PKI(公開金鑰基礎建設機制)就是加入了時間郵戳的運用，能夠證明在特定時間點文件或訊息的存在而強化了不可否認的特性。,1
+時間郵戳,1
+UAC,1
+USB,1
+UPS,1
+unsolicited mail,1
+User Account Control 使用者帳戶控制,1
+Universe Serial Bus 通用性串列匯流排,1
+不斷電系統,1
+未經允許的郵件,1
+User Account Control,1
+Universe Serial Bus,1
+Vulnerability scanner,1
+VPN,1
+vulnerability,1
+VoIP Phishing,1
+VoIP,1
+virus,1
+VeriChip,1
+漏洞掃描器,1
+虛擬私人網路,1
+漏洞,1
+語音網路釣魚,1
+Voice over IP 網路電話,1
+電腦病毒,1
+人體晶片,1
+Voice over IP,1
+WEP,1
+Web 2.0,1
+White hat hacker,1
+worm,1
+WLAN,1
+War Driving駕駛攻擊,1
+WAN,1
+Wired Equivalent Privacy 有線等效保密,1
+Web 2.0，是一個用來闡明技術轉變的術語，最早出現於2004年，源自於軟體業，如同軟體一樣，在新版本軟體程式賦予遞增的版本編號。,1
+白帽駭客,1
+蠕蟲,1
+Wireless LAN，無線區域網路,1
+駕駛攻擊，即駭客帶著無線裝置到處掃瞄尋找可連線的無線網路。,1
+Wide Area Networks 廣域網路,1
+Wired Equivalent Privacy,1
+Wireless LAN,1
+XSS,1
+Cross Site Scripting,1
+跨網站指令碼,1
+零日攻擊、零時差攻擊，在軟體上發現安全漏洞，並在問題被廣泛公佈及修正之前，對其脆弱性進行的惡性攻擊。,1
+零日攻擊,1
+零時差攻擊,1
+殭屍網路,1
+zombie networks,1
+Zero-Day attack,1
+Zero Day attack,1
+I'll text you later to confirm the plan.,0
+Can you text me the address?,0
+I didn’t see your text until just now.,0
+"Let me know when you're free, and I'll text you.",0
+"Sorry, I forgot to reply to your text.",0
+"I saw your text, but I was too busy to reply.",0
+Did you get my text?,0
+Please text me back as soon as you can.,0
+I'll text you once I get there.,0
+The text you sent was super helpful. Thanks!,0
+我們需要分析數據後再做決定。,0
+你可以快速分析一下這些數字嗎？,0
+We need to analyze the data before making a decision.,0
+Can you provide a quick analysis of these numbers?,0
+The AI analyzed the image and identified the objects.,0
+人工智慧分析了圖片並識別了物體。,0
+我們需要用這個程式來分析測試結果。,0
+We need to analyze the test results using this program.,0
+This tool provides a real-time analysis of traffic patterns.,0
+這個工具可以即時分析交通模式。,0
+我用了一個應用程式來分析我的運動表現。,0
+I used an app to analyze my workout performance.,0
+The software can analyze large amounts of data in seconds.,0
+這款軟體可以在幾秒內分析大量數據。,0
